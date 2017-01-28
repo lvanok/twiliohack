@@ -15,5 +15,21 @@
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0",
     "twilio": "^2.11.1"
-  }
+  },
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonydelgado/twilio-video-hackathon-starter.git"
+  },
+  "author": "Lisa VanOrden-Kaan <lmvanorden@gmail.com> (http://lisavanordenkaan.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthonydelgado/twilio-video-hackathon-starter/issues"
+  },
+  "homepage": "https://github.com/anthonydelgado/twilio-video-hackathon-starter#readme"
 }
